@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class LogProcessing {
+public class LogHandler {
     public static void main(String[] args) {
 //        LogsGenerator.generate("src//Resources//log.log", 15);
 
